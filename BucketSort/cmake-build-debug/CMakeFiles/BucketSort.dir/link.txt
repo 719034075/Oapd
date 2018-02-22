@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/BucketSort.dir/main.c.o  -o BucketSort.exe -Wl,--out-implib,libBucketSort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
