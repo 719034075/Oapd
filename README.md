@@ -6,3 +6,4 @@
  - BubbleSort，冒泡排序。
  - BubbleSort2，对简单结构体的冒泡排序。
  - QuickSort，快速排序。
+ - Queue，队列。
